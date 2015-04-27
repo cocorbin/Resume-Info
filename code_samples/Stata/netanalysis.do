@@ -366,7 +366,6 @@ xttab name
 markov Clique
 
 log close
-translate "~/joeslog8.smcl" "~/joeslog8.txt"
 
 
 
